@@ -1,7 +1,7 @@
 # MovieStarPlanet-Client
 Client for MovieStarPlanet created by DarkkEXPLOIT
 
-Run the .exe, if you do not have access please join the server below:
+Run the .exe, if you do not have access please join the server:
 https://discord.gg/X4H7byu (or click the discord icon within the tool.
 
 After youve joined the discord, go to the #activation channel and type >activate <AUTHCODE> (Replacing <AUTHCODE> with the code displayed in the tool). 
